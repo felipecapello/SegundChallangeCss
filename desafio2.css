@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap");
+
+.primeira h1 {
+  font-family: Montserrat;
+}
+.segunda h1 {
+  font-family: Montserrat;
+}
+.terceira h1 {
+  font-family: Montserrat;
+}
+.blog {
+  margin-top: 30px;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+.terceira {
+}
